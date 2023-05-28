@@ -6,11 +6,11 @@ This is a heuristic solver for computing the twin-width of a graph, used in the 
 
 C++11 or higher
 
-#How to run
+# How to run
 
 Compile and run the main.cpp file.
 
-#Authors
+# Authors
 
 Alexandru Enache
 Adrian Miclaus
