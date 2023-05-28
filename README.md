@@ -12,6 +12,6 @@ Compile and run the main.cpp file.
 
 # Authors
 
-Alexandru Enache
-Adrian Miclaus
-Lucian Trepteanu
+  * Alexandru Enache
+  * Adrian Miclaus
+  * Lucian Trepteanu
