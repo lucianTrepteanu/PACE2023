@@ -15,3 +15,4 @@ Compile and run the main.cpp file.
   * Alexandru Enache
   * Adrian Miclaus
   * Lucian Trepteanu
+  * Alexandru Popa
