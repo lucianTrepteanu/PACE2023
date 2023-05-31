@@ -30,3 +30,6 @@ We also have other algorithms for special cases of the graphs. An important one 
   * Adrian Miclaus
   * Lucian Trepteanu
   * Alexandru Popa
+
+[![DOI](https://zenodo.org/badge/646581007.svg)](https://zenodo.org/badge/latestdoi/646581007)
+
