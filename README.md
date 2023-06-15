@@ -24,6 +24,10 @@ The main algorithm is an adaptive algorithm that always tries to compute the con
 
 We also have other algorithms for special cases of the graphs. An important one is to create the contraction sequence based on the BFS tree of the graph starting from the node with the highest starting degree. This works great on graphs with a small average starting degree (m / n).
 
+For a full description of the solver please consult [Heuristic Solver: twin_width_fmi][heuristic_description]
+
+[heuristic_description]: https://drive.google.com/file/d/1Sh8ASZwpJ58_dvw3J9O2_6pAUeMdzBgG/view?usp=sharing "Heuristic solver description"
+
 # Authors
 
   * Alexandru Enache
